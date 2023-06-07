@@ -13,7 +13,7 @@ The Android SHA-256 Digital Signature Checker is an open-source utility applicat
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/4rzumanyan/SHA256DigitalSignatureChecker.git
+1. Clone the repository: git clone `https://github.com/4rzumanyan/SHA256DigitalSignatureChecker.git`
 2. Import the project into Android Studio.
 3. Build and run the application on your Android device.
 
