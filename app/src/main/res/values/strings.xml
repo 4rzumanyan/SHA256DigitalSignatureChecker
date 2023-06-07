@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DigitalSignatureChecker</string>
+    <string name="verification_is_fail">Verification is FAIL</string>
+    <string name="verification_is_ok">Verification is OK</string>
+</resources>
