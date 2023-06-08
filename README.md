@@ -9,9 +9,7 @@ The Android SHA-256 Digital Signature Checker is an open-source utility applicat
 - SHA-256 Digital Signature Verification: Verify the SHA-256 digital signature of a file.
 - Signature Validation: Check if the signature of the file matches the expected SHA-256 signature to ensure its integrity.
 
-## Getting Started
-
-### Installation
+## Installation
 
 1. Clone the repository: git clone `https://github.com/4rzumanyan/SHA256DigitalSignatureChecker.git`
 2. Import the project into Android Studio.
